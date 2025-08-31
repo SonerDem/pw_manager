@@ -20,7 +20,6 @@ Features
 
 Voraussetzungen
 - **Python 3.8+**
-- Abhängigkeiten aus `requirements.txt` installieren:
 
 ```bash
 pip install cryptography
